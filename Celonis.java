@@ -1,5 +1,5 @@
 public class Celonis{
-	public void method1(){
+	public void methodOne(){
 		System.out.println("Method one");
 	}
 }
